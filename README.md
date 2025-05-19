@@ -1,4 +1,4 @@
 # Aditya
 This is my first Git Repository.
 <br>
-Author - Aditya Kanojia
+Author - Aditya Kanojia(Adi)
